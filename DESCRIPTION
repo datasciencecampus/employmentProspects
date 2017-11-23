@@ -1,0 +1,32 @@
+Package: employmentProspects
+Type: Package
+Title: Future Employment Prospects Across Great Britain
+Version: 0.6.0
+Authors@R: c(
+    person("Nathan", "Eastwood", , "neastwood@mango-solutions.com",
+           role = c("aut", "cre"))
+    )
+Description: A Shiny app to disseminate the future employment prospects across 
+    Great Britain for the Cabinet Office's Economic and Domestic Affairs 
+    Secretariat (EDS).
+License: MIT + file LICENSE
+Depends:
+    R (>= 3.3.2)
+Imports:
+    dplyr,
+    DT,
+    ggplot2,
+    htmltools,
+    leaflet (>= 1.1.0.9000),
+    mapview,
+    plotly (>= 4.5.6),
+    shiny,
+    shinydashboard (>= 0.6.0),
+    shinyjs,
+    sp
+Suggests: 
+    rmarkdown,
+    testthat
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.0.0

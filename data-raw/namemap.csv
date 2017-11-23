@@ -1,0 +1,46 @@
+short,full
+la_code,LA Code
+la_name,LA Name
+emp_rate,"Employment rate (%, BRES, 2015)"
+emp_quar,"Employment Rate Quartile (1 = highest, 4 = lowest)"
+di_prop,Persons employed in declining industries (2000-2015) as a proportion of total employment (%)
+do_prop,Persons employed in declining occupations (2004-2015) as a proportion of total employment (%)
+di_rank,"Persons employed in declining industries as a proportion of total employment (rank: 1 = worst, 379 = best)"
+do_rank,"Persons employed in declining occupations as a proportion of total employment (rank: 1 = worst, 379 = best)"
+top_1_rank,"Persons employed in top 1 employer (rank: 1 = worst, 379=best)"
+measure_a,Current employment prospects measure
+gi_prop,Persons employed in growing industries (2000-2015) as a proportion of total employment (%)
+go_prop,Persons employed in growing occupations (2004-2015) as a proportion of total employment (%)
+aand_prop,"Average annual net difference (births-deaths) of business enterprises as a proportion of average annual active business enterprises (%, 2015)"
+grow_business_prop,Proportion of business enterprises with 10+ employees in 2015 whose turnover is 10+% higher than in 2013 (%)
+degree_prop,"Proportion of population aged 16+ with a degree or equivalent and above (%, 2015)"
+gi_rank,"Persons employed in growing industries as a proportion of total employment (rank: 1 = best, 379 = worst)"
+go_rank,"Persons employed in growing occupations as a proportion of total employment (rank: 1 = best, 379 = worst)"
+aand_rank,"Average annual net difference (births-deaths) of business enterprises as a proportion of average annual active business enterprises (rank: 1 = worst, 379 = best)"
+grow_business_rank,"Proportion of business enterprises with 10+ employees in 2015 whose turnover is 10+% higher than in 2013 (rank: 1 = worst, 379 = best)"
+degree_rank,"Proportion of population aged 16+ with a degree or equivalent and above (rank: 1 = worst, 379 = best)"
+measure_b,Composite measure of future employment prospects
+pub_2014,"The proportion of employment in the public sector in 2015 (BRES, 2015)"
+priv_2014,"The proportion of employment in the private sector in 2015 (BRES, 2015)"
+skill_high,"High Skills level: by local authority (all ages, in employment), April 2015 to March 2016"
+est_pop,Estimated Population 2015 (number)
+est_pop_prop,"Local authority population as a proportion of Great Britain population (%, 2015)"
+under_16,Number of persons under 16 (mid-2015 estimates)
+under_16_prop,Proportion of persons under 16 (2015)
+persons_16_64,Number of persons between 16-64 (2015)
+persons_16_64_prop,Proportion of persons between 16-64 (2015)
+persons_65,Number of persons 65+ (2015)
+persons_65_prop,Proportion of persons 65+ (2015)
+births,Births (2015)
+deaths,Deaths (2015)
+births_minus_deaths,Births minus Deaths (2015)
+internal_migration_inflow,Internal Migration Inflow (2014-15)
+internal_migration_outflow,Internal Migration Outflow (2014-15)
+internal_migration_net,Internal Migration Net (2014-15)
+international_migration_inflow,International Migration Inflow (2014-15)
+international_migration_outflow,International Migration Outflow (2014-15)
+international_migration_net,International Migration Net (2014-15)
+male_life_expectancy_at_birth,Male life expectancy at birth (2012-14)
+female_life_expectancy_at_birth,Female life expectancy at birth (2014)
+male_life_expectancy_at_age_65,Male life expectancy at age 65 (2014)
+female_life_expectancy_at_age_65,Female life expectancy at age 65 (2014)

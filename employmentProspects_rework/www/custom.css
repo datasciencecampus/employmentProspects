@@ -1,0 +1,118 @@
+/*
+Add the CSS for the alpha header
+*/
+
+.phase-tag {
+      background: #005ea5;
+      color: white;
+      text-transform: uppercase;
+      padding: 2px 5px 0;
+}
+
+.alert {
+  margin-bottom: 0px;
+}
+
+.alert .alert-danger {
+  border: none;
+  margin-bottom: 0;
+  padding-left: 0;
+  background-color: #f2dede;
+  color: #a94442;
+}
+
+.alert-danger, .alert-error {
+  border-color: #f2dede;
+  background-color: #f2dede!important;
+}
+
+.alert-danger {
+  color: #a94442!important;
+}
+
+.alert a {
+  color: #3c8dbc!important;
+}
+
+.main-sidebar {
+  padding-top: 102px;
+}
+
+.main-header .navbar {
+  margin-left: 300px;
+}
+
+.main-header .logo {
+  width: 300px;
+}
+
+/*
+Continue with custom css for the app
+*/
+
+.main-header {
+  background-color: #f2dede;
+}
+
+.main-header .logo {
+    font-size: 14pt;
+}
+
+.content-wrapper,
+.right-side {
+  background-color: #ffffff;
+}
+
+.leaflet-top.leaflet-right {
+  z-index: 1;
+}
+
+.leaflet-top.leaflet-left {
+  z-index: 1;
+}
+
+#hex-map {
+  background-color: #FFFFFF;
+}
+
+#geo-map {
+  background-color: #FFFFFF;
+}
+
+.main-header .logo {
+  font-size: 11pt;
+}
+
+.leaflet-container .leaflet-control-attribution {
+  font-size: 0px;
+}
+
+#downloadData {
+  margin: 6px 5px 6px 15px;
+  display: block;
+  color: #000000;
+  max-width: 160px;
+}
+#mapOneChoices-mapType {
+  padding-left: 20px;
+}
+
+#mapTwoChoices-mapType {
+  padding-left: 20px;
+}
+
+#mapOneChoices-fillType {
+  padding-left: 20px;
+}
+
+#mapTwoChoices-fillType {
+  padding-left: 20px;
+}
+
+#clearSelection {
+  min-width: 160px;
+}
+
+#warnPJS {
+  padding-left: 15px;
+}

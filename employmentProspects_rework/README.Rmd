@@ -1,0 +1,14 @@
+---
+title: "README"
+author: "Joseph Peskett"
+date: "23 July 2018"
+output: html_document
+---
+## Basic rework of the employment prospects app
+
+Things I have changed:
+
+* Rscripts containing functions are now sourced from the global.r script, rather than loaded from package.
+* Data is also loaded in the global file rather than in the function. 
+* Code for installing the package via github is commented out. 
+* Code  `webshot::install_phamtom()` is also commented out - not sure if this is necessary. 

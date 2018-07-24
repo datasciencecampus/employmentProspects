@@ -1,0 +1,10 @@
+name: employmentProspects
+title:
+username:
+account: datasciencecampus
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 386883
+bundleId: 1496670
+url: https://datasciencecampus.shinyapps.io/employmentProspects/
+when: 1532421527.95577

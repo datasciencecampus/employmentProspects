@@ -39,6 +39,6 @@ library(leaflet)
 library(mapview)
 
 # test for PhantomJS installation
-#webshot::install_phantomjs() ###Not sure if this needs to be editted out
+webshot::install_phantomjs() ###Not sure if this needs to be editted out
 phantom <- webshot:::find_phantom()
 
